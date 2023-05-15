@@ -41,4 +41,4 @@ Now there are 6 members in the Member table:
 {'id': 3, 'firstname': 'Linus', 'lastname': 'Refsnes'},
 {'id': 4, 'firstname': 'Lene', 'lastname': 'Refsnes'},
 {'id': 5, 'firstname': 'Stale', 'lastname': 'Refsnes'},
-{'id': 6, 'firstname': 'Jane', 'lastname': 'Doe'}]>"""
+{'id': 6, 'firstname': 'Jane', 'lastname': 'Doe'}]> """
